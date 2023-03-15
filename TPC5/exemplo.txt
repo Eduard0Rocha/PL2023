@@ -1,0 +1,10 @@
+LEVANTAR
+maq: "Introduza moedas."
+MOEDA 10c, 30c, 50c, 2e.
+maq: "30c - moeda inválida; saldo = 2e60c"
+T=601181818
+maq: "Esse número não é permitido neste telefone. Queira discar novo número!"
+T=253604470
+maq: "saldo = 2e35c"
+POUSAR
+maq: "troco=2e35c; Volte sempre!" ou maq: "troco= 1x2e, 1x20c, 1x10c, 1x5c; Volte sempre!"
